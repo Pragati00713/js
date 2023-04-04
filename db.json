@@ -1,0 +1,51 @@
+{
+    "rent": [
+        {
+            "name": "pooja",
+            "post": "hr",
+            "salary": 55000
+        },
+        {
+            "name": "sunil",
+            "post": "manager",
+            "salary": 35000
+
+        },
+        {
+            "name": "rahul",
+            "post": "hr",
+            "salary":25000
+        }
+    ],
+    "student":[
+        {
+            "name": "samar",
+            "address": "mandideep",
+            "word": 8
+        },
+        
+        {
+            "name": "sonam",
+            "address": "mandideep",
+            "word":5
+        },
+        {
+            "name":"priya",
+            "address": "mandideep",
+            "word":5
+        }
+    ],
+    "school":[
+        {
+            "school name":"golden carry public higher school",
+            "address": "patel nagar",
+            "ranking" :5
+        },
+        {
+            "school name":"vivek jagrati vidhya mandir",
+            "address":"indra nagar",
+            "ranking":2
+        }
+    ]
+    
+}
